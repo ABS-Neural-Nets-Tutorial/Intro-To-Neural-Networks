@@ -1,4 +1,4 @@
-[ABS Banner](static/banner.png)
+![ABS Banner](static/banner.png)
 
 ---
 
