@@ -1,4 +1,4 @@
-![ABS Banner](static/banner.png)
+# Introduction to Neural Networks Learning Session
 
 ---
 
